@@ -5,9 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
-
+pyvenv.cfg
 # Distribution / packaging
 .Python
+include/
 build/
 develop-eggs/
 dist/
